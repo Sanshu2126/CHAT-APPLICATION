@@ -20,11 +20,12 @@ The frontend consists of a simple but effective HTML interface with CSS styling 
 
 This application supports multiple users by opening the same chat page in different browser tabs or devices. Messages sent from one tab appear immediately in all others, demonstrating the real-time nature of the app. The chat app can also be enhanced with additional features such as user authentication, unique usernames, timestamps, message history storage using a database, private messaging, and even chatbot integration for automated replies.
 
-In summary, this task offers a hands-on understanding of how real-time web applications work. It teaches how WebSockets differ from traditional HTTP communication and provides experience with key technologies like Node.js, Express, and Socket.IO. It also highlights the importance of frontend-backend integration for a seamless user experience. This foundational project lays the groundwork for more complex real-time systems, such as collaborative tools, multiplayer games, or customer support platforms.
+In summary, this task offers a hands-on understanding of how real-time web applications work. It teaches how WebSockets differ from traditional HTTP communication and provides experience with key technologies like Node.js, Express, and Socket.IO. It also highlights the importance of frontend-backend integration for a seamless user experience. This foundational project lays the groundwork for more complex real-time systems, such as collaborative tools, multiplayer games, or
+ customer support platforms.
 
 #OUTPUT
 
-Image
+<img width="705" height="734" alt="image" src="https://github.com/user-attachments/assets/15b1699e-04d5-4a0c-af23-e0f2980ed588" />
 
 
 
